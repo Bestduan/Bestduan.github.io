@@ -4,7 +4,7 @@ title:      如何用vscode来开发FPGA
 subtitle:   如何用vscode来开发FPGA（vivado）
 date:       2020-03-03
 author:     Sterben
-header-img: img/post-bg-11.jpg
+header-img: img/post-bg-4.jpg
 catalog: true
 tags:
     - FPGA开发教程(环境篇)

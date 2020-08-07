@@ -4,7 +4,7 @@ title:      FPGA Develop Support使用教程 (环境篇)
 subtitle:   FPGA Develop Support使用教程（vivado）
 date:       2020-03-03
 author:     Sterben
-header-img: img/post-bg-12.jpg
+header-img: img/post-bg-5.jpg
 catalog: true
 tags:
     - FPGA开发教程
